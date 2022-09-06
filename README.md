@@ -14,8 +14,6 @@
 
 ---
 
-[![ko](https://img.shields.io/badge/lang-한국어-brightgreen.svg)](https://github.com/chrisleekr/binance-trading-bot/blob/master/README.ko.md)
-[![中文](https://img.shields.io/badge/lang-中文-blue.svg)](https://github.com/chrisleekr/binance-trading-bot/blob/master/README.zh-cn.md)
 
 This is a test project. I am just testing my code.
 
@@ -140,9 +138,6 @@ Then the bot will execute 2nd purchase for the coin. The last buy price will be 
 
 ##### In-depth Buy Configuration in-depth
 
-The detailed document for buy configuration available here.
-
-[https://github.com/chrisleekr/binance-trading-bot/wiki/Buy-Scenario](https://github.com/chrisleekr/binance-trading-bot/wiki/Buy-Scenario)
 
 ### Sell Signal
 
@@ -241,11 +236,8 @@ The final profit would be
 
 ##### In-depth Sell Configuration
 
-The detailed document for buy configuration available here.
 
-[https://github.com/chrisleekr/binance-trading-bot/wiki/Sell-Scenario](https://github.com/chrisleekr/binance-trading-bot/wiki/Sell-Scenario)
-
-### [Features](https://github.com/chrisleekr/binance-trading-bot/wiki/Features)
+Features
 
 - Manual trade
 - Convert small balances to BNB
@@ -356,36 +348,15 @@ Or use the frontend to adjust configurations after launching the application.
 
 ## Changes & Todo
 
-Please refer
-[CHANGELOG.md](https://github.com/chrisleekr/binance-trading-bot/blob/master/CHANGELOG.md)
-to view the past changes.
-
-- [ ] Develop simple setup screen for secrets
-- [ ] Allow to execute stop-loss before buy action - [#299](https://github.com/chrisleekr/binance-trading-bot/issues/299)
-- [ ] Improve sell strategy with conditional stop price percentage based on the profit percentage - [#94](https://github.com/chrisleekr/binance-trading-bot/issues/94)
-- [ ] Add sudden drop buy strategy - [#67](https://github.com/chrisleekr/binance-trading-bot/issues/67)
-- [ ] Manage setting profiles (save/change/load?/export?) - [#151](https://github.com/chrisleekr/binance-trading-bot/issues/151)
-- [ ] Improve notifications by supporting Apprise - [#106](https://github.com/chrisleekr/binance-trading-bot/issues/106)
-- [ ] Support cool time after hitting the lowest price before buy - [#105](https://github.com/chrisleekr/binance-trading-bot/issues/105)
-- [ ] Reset global configuration to initial configuration - [#97](https://github.com/chrisleekr/binance-trading-bot/issues/97)
-- [ ] Support multilingual frontend - [#56](https://github.com/chrisleekr/binance-trading-bot/issues/56)
-- [ ] Non linear stop price and chase function - [#246](https://github.com/chrisleekr/binance-trading-bot/issues/246)
-- [ ] Support STOP-LOSS configuration per grid trade for selling - [#261](https://github.com/chrisleekr/binance-trading-bot/issues/261)
 
 ## Donations
-
-If you find this project helpful, feel free to make a small
-[donation](https://github.com/chrisleekr/binance-trading-bot/blob/master/DONATIONS.md)
-to the developer.
 
 ## Acknowledgments
 
 - [@d0x2f](https://github.com/d0x2f)
 - And many others! Thanks guys!
 
-## Contributors
 
-Thanks to all contributors :heart: [Click to see our heroes](https://github.com/chrisleekr/binance-trading-bot/graphs/contributors)
 
 ## Disclaimer
 
